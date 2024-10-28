@@ -16,19 +16,19 @@ closeShopping.addEventListener('click', ()=>{
 let products = [
     {
         id: 1,
-        name: 'PRODUCT NAME 1',
+        name: 'Chicken',
         image: '1.jpg',
         price: 69
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
+        name: 'Fajitas',
         image: '2.jpg',
         price: 169
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
+        name: 'Chicken Masala',
         image: '3.jpg',
         price: 269
     }
